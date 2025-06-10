@@ -1,5 +1,10 @@
 @import "tailwindcss";
 
+:root {
+  --font-lexend: 'Lexend', sans-serif;
+  --font-comforter-brush: 'Comforter Brush', cursive;
+}
+
 .font-brush {
   font-family: var(--font-comforter-brush), cursive;
 }
